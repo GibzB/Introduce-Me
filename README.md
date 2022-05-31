@@ -23,5 +23,28 @@ I’m a Full Stack Dev, ServiceDesk and Project Management Pro(Nairobi, 🇰🇪
 - 📫  How to reach me: [here](https://bit.ly/3H89O4s) or Twitter [@rgibesh](twitter.com/rgibesh)
 - 🚴🏽‍♀️   Fun fact: I love cycling, I've done a century ride of 19 miles from Serena to Mtwapa Creek and back.
 
+**Tools：**
+
+<a href="https://code.visualstudio.com">
+<code>
+<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/vscode.svg" width="24" />
+</code>
+</a>
+<a href="https://git-scm.com">
+<code>
+<img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/git.svg" width="24" />
+</code>
+</a>
+<a href="https://docs.gitlab.com/runner">
+<code>
+<img src="https://assets.gitlab-static.net/uploads/-/system/project/avatar/250833/runner_logo.png" width="24" />
+</code>
+</a>
+<a href="https://www.docker.com">
+<code>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="24" />
+</code>
+</a>
+
 
 
