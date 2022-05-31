@@ -16,7 +16,7 @@ I’m a Full Stack Dev, ServiceDesk and Project Management Pro(Nairobi, 🇰🇪
 - 🤓  Continually learning JavaScript <a href="https://nodejs.org/en/">
   <code>
   <img
-        src="https://nodejs.org/static/images/logo.svg" width="24" />
+        src="https://nodejs.org/static/images/logo.svg" width="34" />
   </code>
   </a> 
 - 💬  Ask me about Software Development.
