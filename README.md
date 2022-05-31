@@ -16,12 +16,12 @@ I’m a Full Stack Dev, ServiceDesk and Project Management Pro(Nairobi, 🇰🇪
 - 🤓  Continually learning JavaScript <a href="https://nodejs.org/en/">
   <code>
   <img
-        src="https://nodejs.org/static/images/logo.svg" width="34" />
+        src="https://nodejs.org/static/images/logo.svg" width="50" />
   </code>
   </a> 
 - 💬  Ask me about Software Development.
 - 📫  How to reach me: [here](https://bit.ly/3H89O4s) or Twitter [@rgibesh](twitter.com/rgibesh)
-- 🚴🏽‍♀️  Fun fact: I love cycling, I've done a century ride of 19 miles from Serena to Mtwapa Creek and back.
+- 🚴🏽‍♀️   Fun fact: I love cycling, I've done a century ride of 19 miles from Serena to Mtwapa Creek and back.
 
 
 
