@@ -8,13 +8,15 @@ I’m a Full Stack Dev, ServiceDesk and Project Management Pro(Nairobi, 🇰🇪
   <img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GibzB&count_private=true&layout=compact&show_icons=true" />
 </a>
+
+- 🔭 I'm the creator of [website name](site.com). I'm currently a Data Processor for ML & AI at CF Kenya. 
+
+- 🌱 Previously, I worked as a Senior Software Engineer at Calm and a iOS Engineer at Slack. 
+
 <a href="https://github.com/GibzB">
   <img align="right"
     src="https://github-readme-stats.vercel.app/api?username=GibzB&count_private=true&show_icons=true" />
 </a>
-- 🔭 I'm the creator of [website name](site.com). I'm currently a Data Processor for ML & AI at CF Kenya. 
-
-- 🌱 Previously, I worked as a Senior Software Engineer at Calm and a iOS Engineer at Slack. 
 
 - 📱  I’m currently working on ______
 - 🤓  Continually learning JavaScript <a href="https://nodejs.org/en/">
