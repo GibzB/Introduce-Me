@@ -2,7 +2,7 @@
 ### Hi there I'm [Billy G ](https://github.com/GibzB)👋
 
 
-I’m a Full Stack Dev, ServiceDesk and Project Management Pro(Nairobi, 🇰🇪, Earth, Milky Way).
+I’m a Full Stack Dev, ServiceDesk and Project Management Pro(Nairobi, 🇰🇪, Earth, Sub Sahara).
 
 <a href="https://github.com/GibzB">
   <img align="right"
@@ -11,7 +11,7 @@ I’m a Full Stack Dev, ServiceDesk and Project Management Pro(Nairobi, 🇰🇪
 
 - 🔭 I'm the creator of [website name](site.com). I'm currently a Data Processor for ML & AI at CF Kenya. 
 
-- 🌱 Previously, I worked as a Senior Software Engineer at Calm and a iOS Engineer at Slack. 
+- 🌱 Previously, I worked as a Senior Software Engineer at _____ and a ______ at _____. 
 
 <a href="https://github.com/GibzB">
   <img align="right"
